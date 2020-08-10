@@ -1,0 +1,29 @@
+/* Bedirhan YILDIRIM reset.css */
+body {
+    margin: 0 auto;
+    background-color: rgb(66, 103, 211);
+    /*transition: all 0.5s ease 0s;*/
+    font: 15px/19px 'Roboto', Arial;
+  }
+  select, input, textarea {
+    outline: none;
+    box-shadow: none;
+  }
+  img {
+    border: none;
+  }
+  a {
+    text-decoration: none;
+  }
+  table, tr, td, ul, li, h1, h2, h3, h4, h5, h6, p, form, input, textarea {
+    margin: 0;
+    padding: 0;
+    border: none;
+    list-style-type: none;
+  }
+  :focus {
+    outline: none;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
