@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-monotony-icon-ios">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="monotony-icon-ios" clip-path="url(#clip-monotony-icon-ios)">
+    <g id="reference">
+      <g id="Varlık_2" data-name="Varlık 2" transform="translate(-64 -64)">
+        <g id="Layer_1" data-name="Layer 1" transform="translate(64 64)">
+          <g id="Group_16" data-name="Group 16">
+            <g id="Group-3">
+              <rect id="Rectangle-5" width="512" height="512" fill="rgba(102,221,183,0.1)" stroke="#65dcb7" stroke-width="0.5"/>
+              <path id="Rectangle-6" d="M84,128H545.333a4,4,0,0,1,4,4V465.333a4,4,0,0,1-4,4H84a4,4,0,0,1-4-4V132A4,4,0,0,1,84,128Z" transform="translate(-58.667 -42.667)" fill="none" stroke="#65dcb7" stroke-width="0.5"/>
+              <rect id="Rectangle-6-2" data-name="Rectangle-6" width="341.333" height="469.333" rx="3" transform="translate(85.333 21.333)" fill="none" stroke="#65dcb7" stroke-width="0.5"/>
+              <rect id="Rectangle-6-3" data-name="Rectangle-6" width="405.333" height="405.333" rx="3" transform="translate(53.333 53.333)" fill="none" stroke="#65dcb7" stroke-width="0.5"/>
+              <circle id="Oval-3" cx="234.667" cy="234.667" r="234.667" transform="translate(21.333 21.333)" fill="none" stroke="#65dcb7" stroke-width="0.5"/>
+              <circle id="Oval-3-2" data-name="Oval-3" cx="106.667" cy="106.667" r="106.667" transform="translate(149.333 149.333)" fill="none" stroke="#65dcb7" stroke-width="0.5"/>
+              <path id="Line-2" d="M64.42,575.457,575.393,64.39" transform="translate(-63.86 -63.87)" fill="none" stroke="#65dcb7" stroke-linecap="square" stroke-width="0.5" opacity="0.3"/>
+              <path id="Line-2-2" data-name="Line-2" d="M575.183,575.153,64.37,64.42" transform="translate(-63.877 -63.86)" fill="none" stroke="#65dcb7" stroke-linecap="square" stroke-width="0.5" opacity="0.3"/>
+              <path id="Line-3" d="M200,64V576" transform="translate(-18.667 -64)" fill="none" stroke="#65dcb7" stroke-linecap="square" stroke-width="0.5" opacity="0.3"/>
+              <path id="Line-3-2" data-name="Line-3" d="M256,64V576" transform="translate(0 -64)" fill="none" stroke="#65dcb7" stroke-linecap="square" stroke-width="0.5" opacity="0.3"/>
+              <path id="Line-3-3" data-name="Line-3" d="M312.08,64V576" transform="translate(18.693 -64)" fill="none" stroke="#65dcb7" stroke-linecap="square" stroke-width="0.5" opacity="0.3"/>
+              <path id="Line-3-4" data-name="Line-3" d="M575.64,200H64" transform="translate(-64 -18.667)" fill="none" stroke="#65dcb7" stroke-linecap="square" stroke-width="0.2" opacity="0.3"/>
+              <path id="Line-3-5" data-name="Line-3" d="M575.64,256H64" transform="translate(-64)" fill="none" stroke="#65dcb7" stroke-linecap="square" stroke-width="0.2" opacity="0.3"/>
+              <path id="Line-3-6" data-name="Line-3" d="M575.64,312H64" transform="translate(-64 18.667)" fill="none" stroke="#65dcb7" stroke-linecap="square" stroke-width="0.5" opacity="0.3"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_34" data-name="Group 34">
+        <g id="Areas" transform="translate(0 0)">
+          <g id="Viewport" transform="translate(0 0)" fill="none" stroke="#fff" stroke-width="1" opacity="0.5">
+            <circle cx="256" cy="256" r="256" stroke="none"/>
+            <circle cx="256" cy="256" r="255.5" fill="none"/>
+          </g>
+          <g id="Safe_Area" data-name="Safe Area" transform="translate(21.333 21.333)" fill="none" stroke="#fff" stroke-width="1" opacity="0.5">
+            <circle cx="234.667" cy="234.667" r="234.667" stroke="none"/>
+            <circle cx="234.667" cy="234.667" r="234.167" fill="none"/>
+          </g>
+        </g>
+        <path id="adaptive-background" d="M0,0H512V512H0Z" fill="#4267d3"/>
+        <path id="monotony" d="M159.791,0a159.791,159.791,0,0,1,0,319.582c-24.672,0-48.7-6.155-71.674-17.162-42.024-20.138-67,24.247-81.021,10.5S38.9,273.948,17.6,231.9A159.154,159.154,0,0,1,159.791,0Z" transform="translate(95.963 96.215)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
