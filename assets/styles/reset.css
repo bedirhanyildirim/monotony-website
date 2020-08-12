@@ -1,9 +1,13 @@
 /* Bedirhan YILDIRIM reset.css */
+
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&family=Roboto:wght@300;500;700;900&display=swap');
+
 body {
     margin: 0 auto;
-    background-color: rgb(66, 103, 211);
+    background-color: rgb(255, 255, 255);
     /*transition: all 0.5s ease 0s;*/
-    font: 15px/19px 'Roboto', Arial;
+    font: 15px/19px 'Roboto', sans-serif;
   }
   select, input, textarea {
     outline: none;
